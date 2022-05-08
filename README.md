@@ -42,14 +42,14 @@
 <ul>
   <li><a href="https://taichi.cool/zh/">太极官网</a></li>
   <li><a href="https://www.taichi-app.com">太极新官网</a></li>
-  <li><a href="https://www.lanzous.com/b632846">太极APP网盘下载</a></li>
+  <li><a href="">太极APP网盘下载</a></li>
 </ul>
 
 <h4 id="VirtualXposed">VirtualXposed_免解锁、免root、免修改系统使用Xposed模块及多开软件【支持安卓5.0-10】</h4>
 <ul>
   <li><a href="https://github.com/android-hacker/VirtualXposed/releases">Github发布页</a></li>
   <li><a href="http://vxposed.com/">VirtualXposed官网</a></li>
-  <li><a href="https://www.lanzous.com/b633812">VirtualXposed网盘下载</a></li>
+  <li><a href="">VirtualXposed网盘下载</a></li>
 </ul>
 
 <h4 id="Spatch">Spatch天鉴【支持安卓8.0-11】</h4>
@@ -82,13 +82,13 @@
 
 <h4 id="运动修改器">运动修改器_运动步数修改Xposed模块</h4>
 <ul>
-  <li><a href="https://pan.baidu.com/s/17OLiYeQ50n-rxhVHv6wBiQ">运动修改器 提取码:j1hq</a></li>
-  <li><a href="https://pan.baidu.com/s/1RbrlR4oLxVNwv6vmps9vZg">运动修改器去劫持版 提取码:iuc9</a></li>
+  <li><a href="">运动修改器 提取码:j1hq</a></li>
+  <li><a href="">运动修改器去劫持版 提取码:iuc9</a></li>
 </ul>
 
 <h4 id="微信分组模块">微信分组模块_将微信联系人进行分组管理，Xposed模块</h4>
 <ul>
-  <li><a href="https://pan.baidu.com/s/1s3FPSPkMCu-v3jNZNkmmzQ">微信分组模块 提取码:ejvk</a></li>
+  <li><a href="">微信分组模块 提取码:ejvk</a></li>
 </ul>
 
 <h4 id="上帝模式">上帝模式_屏蔽不喜欢的控件，Xposed模块</h4>
@@ -118,12 +118,12 @@
 
 <h4 id="公众号视频音频提取工具">公众号视频音频提取工具</h4>
 <ul>
-  <li><a href="https://pan.baidu.com/s/1jJO3bR9nFPXXOx4gr-uvhQ">安卓微信公众号视频音频提取工具</a></li>
+  <li><a href="">安卓微信公众号视频音频提取工具</a></li>
 </ul>
 
 <h4 id="FFmpeg媒体编码器">FFmpeg Media Encoder媒体编码器_视频压缩神器</h4>
 <ul>
-  <li><a href="https://pan.baidu.com/s/1ggigJpp">FFmpeg媒体编码器0.97.5清爽版</a></li>
+  <li><a href="">FFmpeg媒体编码器0.97.5清爽版</a></li>
 </ul>
 
 <h4 id="Xposed模块仓库">Xposed模块仓库_Xposed模块下载基地</h4>
@@ -143,6 +143,11 @@
 
 <br>
 <p><strong>更多更好的软件我们将持续不断增加和更新，敬请收藏关注...</strong> </p>
+
+<details>
+  <summary>折叠时展示的文字</summary>
+  展开内容。可以嵌套 markdown 语法。
+</details>
 
 <h4 id="免责声明">免责声明：</h4>
 <ol>
