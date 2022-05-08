@@ -38,7 +38,11 @@
   <li><a href="https://github.com/LSPosed/LSPosed/releases">LSPosed和LSPosed manager下载</a></li>
 </ul>
 
-<h4 id="taichi">太极taichi_免解锁、免root、免修改系统使用Xposed模块【支持安卓5.0-11】</h4>
+<details>
+  <summary>免root虚拟框架系列</summary>
+    <li><a href="https://github.com/LSPosed/LSPatch">LSPatch</a></li>
+
+   <h4 id="taichi">太极taichi_免解锁、免root、免修改系统使用Xposed模块【支持安卓5.0-11】   </h4>
 <ul>
   <li><a href="https://taichi.cool/zh/">太极官网</a></li>
   <li><a href="https://www.taichi-app.com">太极新官网</a></li>
@@ -57,6 +61,9 @@
   <li><a href="http://spatch.die.lu">天鉴官网</a></li>
   <li><a href="https://github.com/lianglixin/SPatch/releases">Spatch天鉴</a></li>
 </ul>
+</details>
+
+
 
 <h4 id="SandVXP">SandVXposed【支持安卓4.4-11】</h4>
 <ul>
